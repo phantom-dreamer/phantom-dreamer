@@ -1,5 +1,5 @@
 ## About me
-I'm a middle data/product analyst, currently working at [MTS.DIGITAL]([https://ozon.tech/](https://mts-digital.ru/))  
+I'm a middle data/product analyst, currently working at [MTS.DIGITAL](https://mts-digital.ru/) 
 My education: Master's Degree in Cybersecurity of information systems.
 
 |          | Tech stack            |
